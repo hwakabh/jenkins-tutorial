@@ -14,5 +14,11 @@ pipeline {
         sh 'who'
       }
     }
+    stage('step3') {
+      steps {
+        echo "Updated Jenkinsfile"
+      }
+    }
+
   }
 }
