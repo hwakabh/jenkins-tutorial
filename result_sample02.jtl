@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1609828039569,54,getImage1,200,OK,画像取得 1-4,bin,true,,9208,223,6,6,54,0,19
+1609828039596,27,getImage1,200,OK,画像取得 1-5,bin,true,,9208,223,6,6,27,0,0
+1609828039542,82,getImage1,200,OK,画像取得 1-2,bin,true,,9208,223,6,6,81,0,47
+1609828039542,82,getImage1,200,OK,画像取得 1-1,bin,true,,9208,223,6,6,82,0,47
+1609828039545,79,getImage1,200,OK,画像取得 1-3,bin,true,,9208,223,6,6,78,0,44
+1609828039623,10,getImage1,200,OK,画像取得 1-6,bin,true,,9208,223,6,6,10,0,1
+1609828039648,10,getImage1,200,OK,画像取得 1-7,bin,true,,9208,223,7,7,10,0,2
+1609828039676,9,getImage1,200,OK,画像取得 1-8,bin,true,,9208,223,8,8,9,0,0
+1609828039700,9,getImage1,200,OK,画像取得 1-9,bin,true,,9208,223,9,9,9,0,1
